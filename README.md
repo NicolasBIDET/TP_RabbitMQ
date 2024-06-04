@@ -18,4 +18,4 @@ Connexion => API HTTP de RabbitMQ
 
 ### Collaborateurs : 
 
-Bidet Nicolas / Martineau Swann / Ramssamy Marie
+Bidet Nicolas / Martineau Swann / Ramssamy Marie / Prompsy Bastien
