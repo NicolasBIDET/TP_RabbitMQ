@@ -1,5 +1,5 @@
 # Instruction
-- Application simple de chat entre utilisateur(s)
+- Application simple de chat entre utilisateur(s) (back + front + RabbitMQ as broker)
 - Possibilité de création de compte + connexion (authentification)
 - Possibilité de faire des groupes de discussion
 
