@@ -14,7 +14,15 @@ Connexion => API HTTP de RabbitMQ
 - Interface pour saisir et envoyer le message
 
 # Setup
-*// inserer ici les instruction de démarage du projet.*
+- Ouvrir un terminal sur le dossier back faire npm i
+- Ouvrir un terminal sur le dossier front/chat-app-frontend faire npm i
+- Installer RabbitMQ : https://www.rabbitmq.com/docs/download
+- Lancer mongod depuis le terminal
+- Démarrer RabbitMQ service start
+- Démarrer MongodbCompass
+- Dans front/chat-app-frontend faire npm start
+- Dans back faire node server.js
+- Enregister un user via l'app et vérifier si la collection s'est bien créée dans MongodbCompass
 
 ### Collaborateurs : 
 
